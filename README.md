@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about *ML,DL,NLP,AI*
+- 💬 Ask me about *Machine Learning - Deep Learning - Natural Language Process - Artificial Intelligence -*
 
 - 📫 How to reach me **rabinj0oy@gmail.com
 
