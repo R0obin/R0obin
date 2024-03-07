@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on [Object Detection Project](https://github.com/R0obin/Live_Object_Detection_with_Flask)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning Data Science
 
-- 💬 Ask me about *Machine Learning - Deep Learning - Natural Language Process - Artificial Intelligence *
+- 💬 Ask me about * Machine Learning - Deep Learning - Natural Language Process - Artificial Intelligence *
 
-- 📫 How to reach me **rabinj0oy@gmail.com
+- 📫 How to reach me rabinj0oy@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
