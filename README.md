@@ -13,9 +13,7 @@
 </p>
 
 </h3>
-<p align="right">
-  <img src=""></a>
-</p>
+
 
 <p align="left"> <a href="https://twitter.com/rabinj0oy" target="blank"><img src="https://img.shields.io/twitter/follow/rabinj0oy?logo=twitter&style=for-the-badge" alt="rabinj0oy" /></a> </p>
 
@@ -25,7 +23,7 @@
 
 - 💬 Ask me about *ML,DL,NLP,AI*
 
-- 📫 How to reach me **rabinj0oy@gmail.com
+- 📫 How to reach me **rabinj0oy@gmail.com<p align="right
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -50,10 +48,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/robin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="robin" /></a><a href="https://ko-fi.com/robin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="robin" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/robin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="robin"</p>
+<br><br>
 
 <h3 align = "left">Git Status:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0obin&show_icons=true&locale=en&layout=compact" alt="r0obin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r0obin&show_icons=true&locale=en&layout=compact" alt="r0obin" hight="500" width="500" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r0obin&show_icons=true&locale=en"
