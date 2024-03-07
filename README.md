@@ -23,7 +23,7 @@
 
 - 💬 Ask me about *ML,DL,NLP,AI*
 
-- 📫 How to reach me **rabinj0oy@gmail.com<p align="right
+- 📫 How to reach me **rabinj0oy@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
